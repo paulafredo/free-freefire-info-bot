@@ -1,4 +1,4 @@
-#  Free Fire info Discord Bot
+king | RUOKK#  Free Fire info Discord Bot
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
@@ -11,7 +11,12 @@ It returns profile data such as level, rank, guild info, credit score, social pr
 
 -  Integrated API to fetch Free Fire account data via UID
 -  Detailed data: level, rank, guild, credit score, full profile
-- Secure credentials using `.env`.
+- Secure credentials using .env`.
+- VIA UID 9087637882
+- LEVEL RENK HROIK
+- GUILD KING PEPENG
+- CREDIT SCORE 793600
+- full profil 3087524220
 
 ## Requirements
 
@@ -19,9 +24,9 @@ It returns profile data such as level, rank, guild info, credit score, social pr
 - A Discord bot token
 - A `.env` file containing:
   ```ini
-  TOKEN=your_bot_token
+  TOKEN=your_bot_token 99999
   PORT = port where the bot will turn
-  ```
+  ```9999999
 
 ## Installation
 
