@@ -1,4 +1,4 @@
-#  Free Fire info Discord Bot
+3102416041#  Free Fire info Discord Bot
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
